@@ -1,0 +1,42 @@
+body {
+    background: #edf4fd;
+}
+button {
+    border-radius: 12px !important;
+}
+
+.header__logo__img {
+    height: 45px;
+}
+
+.des__title{
+    font-size: 60px;
+}
+
+.ads__img img{
+    border-radius: 12px !important;
+}
+
+.ads__text__element h2{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.course {
+    background-color: white;
+    border-radius: 12px !important;
+}
+
+.course-img {
+    width: 100%;
+    border-radius: 12px !important;
+}
+
+
+.course-category  {
+    background-color: whitesmoke;
+    border-radius: 8px !important;
+}
+.course-price{
+    color: blue;
+}
