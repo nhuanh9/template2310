@@ -19,24 +19,14 @@ button {
 
 .ads__text__element h2{
     font-size: 50px;
+    color: blueviolet;
     font-weight: bold;
+}
+.ads__text__element p{
+    color: lightseagreen;
 }
 
 .course {
     background-color: white;
     border-radius: 12px !important;
-}
-
-.course-img {
-    width: 100%;
-    border-radius: 12px !important;
-}
-
-
-.course-category  {
-    background-color: whitesmoke;
-    border-radius: 8px !important;
-}
-.course-price{
-    color: blue;
 }
